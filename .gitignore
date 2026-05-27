@@ -12,3 +12,4 @@ wikitext-103/
 __pycache__/
 dataset/
 data_processed/
+logs/
