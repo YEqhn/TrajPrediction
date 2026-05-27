@@ -1,0 +1,23 @@
+==========================================
+Training Configuration
+==========================================
+Timestamp: 2026-05-18 20:31:21
+Environment: TCN conda environment
+Batch Size: 32
+Epochs: 50
+Learning Rate: 0.001
+Hidden Units: 64
+Kernel Size: 5
+Levels: 6
+Dropout: 0.2
+Gradient Clip: 1.0
+Optimizer: Adam
+Random Seed: 1111
+Log Interval: 50
+Data Path: /home/yeqhn/Desktop/TCN/data_processed
+Window Duration: 1.0s
+Prediction Horizon: 100ms
+Sample Rate: 200Hz
+Train Ratio: 0.8
+CUDA: auto
+==========================================

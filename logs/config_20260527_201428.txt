@@ -1,0 +1,37 @@
+==========================================
+Integrated Training Configuration
+==========================================
+Timestamp: 2026-05-27 20:14:49
+Environment: TCN conda environment
+==========================================
+General:
+  Batch Size: 32
+  Learning Rate: 0.001
+  Use CUDA: true
+  Data Path: /home/yeqhn/Desktop/TCN/data_processed
+  Window Duration: 1.0s
+  Prediction Horizon: 100ms
+  Sample Rate: 200Hz
+
+TCN Module:
+  Epochs: 50
+  Hidden Units: 64
+  Kernel Size: 5
+  Levels: 6
+  Dropout: 0.2
+
+TimesNet Module:
+  Epochs: 20
+  Anomaly Threshold: 0.5
+
+NormalTrajMemory Module:
+  Memory Size: 100
+  Correction Weight: 0.7
+
+Output Paths:
+  TCN Model: /home/yeqhn/Desktop/TCN/models/tcn_model.pt
+  TimesNet Model: /home/yeqhn/Desktop/TCN/models/timesnet_anomaly_detector.pt
+
+Options:
+  Run Tests: true
+==========================================

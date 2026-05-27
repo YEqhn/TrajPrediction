@@ -1,0 +1,14 @@
+.DS_Store/
+lambada/
+wikitext-103/
+*.pt
+*.log
+*.db
+*.sqlite
+*.sqlite3
+*.mdb
+*.accdb
+*.pyc
+__pycache__/
+dataset/
+data_processed/

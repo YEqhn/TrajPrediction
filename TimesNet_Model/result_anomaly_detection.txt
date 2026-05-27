@@ -1,0 +1,9 @@
+anomaly_detection_CustomAD_TimesNet_TimesNet_CustomAD_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9997, Precision : 0.9998, Recall : 0.9999, F-score : 0.9999 
+
+anomaly_detection_CustomAD_TimesNet_TimesNet_CustomAD_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9988, Precision : 0.9990, Recall : 0.9994, F-score : 0.9992 
+
+anomaly_detection_CustomAD_TimesNet_CustomAD_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9984, Precision : 0.9983, Recall : 0.9995, F-score : 0.9989 
+
